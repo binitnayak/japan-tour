@@ -89,36 +89,21 @@ Whether you're exploring Mount Fuji, Tokyo, Kyoto, or Osaka, this project delive
 
 ## 🏯 Hero Section
 
-> Add your Hero Screenshot here
-
-```
 <img width="1917" height="972" alt="japan landind" src="https://github.com/user-attachments/assets/01d53370-19ab-4c89-9934-b9bbbcf94006" />
 
-```
-
----
 
 ## 🌸 About Section
 
-> Add your About Screenshot here
 
-```
 <img width="1912" height="972" alt="japan about" src="https://github.com/user-attachments/assets/9c3cf518-4610-4104-8cbd-4e4249dc3151" />
 
-```
 
----
 
 ## 📞 Contact Section
 
-> Add your Contact Screenshot here
 
-```
 <img width="1917" height="967" alt="japan contect" src="https://github.com/user-attachments/assets/a7c5e7c8-03a0-4e31-8db1-4f479b715396" />
 
-```
-
----
 
 # 📂 Folder Structure
 
